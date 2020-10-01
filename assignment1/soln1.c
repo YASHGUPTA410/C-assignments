@@ -1,10 +1,10 @@
 #include<stdio.h>
 void main()
 {
-	float l,b,area;
+	float lEN,b,area;
 	printf("enter the width and length of the rectangle=");
-	scanf("%f %f",&l,&b);
-	area=l*b;
+	scanf("%f %f",&lEN,&b);
+	area=lEN*b;
 	printf("area of the ractangle is=%f",area);
 }
 
