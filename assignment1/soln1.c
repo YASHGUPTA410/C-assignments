@@ -5,6 +5,6 @@ void main()
 	printf("enter the width and length of the rectangle=");
 	scanf("%f %f",&lEN,&b);
 	area=lEN*b;
-	printf("area of the ractangle is=%f",area);
+	printf("answer as area of the ractangle is=%f",area);
 }
 
